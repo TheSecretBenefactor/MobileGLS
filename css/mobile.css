@@ -148,6 +148,12 @@ a {
   text-align: center;
 }
 
+.block1news1 a {
+  text-decoration: none;
+  color: #006837;
+    opacity: 0.80;
+}
+
 
 .block1news1end {
   margin-top: 10px;
@@ -179,6 +185,12 @@ a {
     opacity: 0.80;
     filter: alpha(Opacity=80);
   text-align: center;
+}
+
+.block1news1end a {
+  text-decoration: none;
+  color: #006837;
+    opacity: 0.80;
 }
 
 
