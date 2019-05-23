@@ -10,10 +10,10 @@ body {
   border:0;
   width: 100%;
   background-color: #f3f3f3;
-  font-size: 14px; 
+  font-size: 14px;
   font-family: Open Sans, Noto Sans, Arial;
   color: black;
-  word-spacing: 0 !important; 
+  word-spacing: 0 !important;
   text-align: left;
 }
 
@@ -22,12 +22,12 @@ h1 {
   padding-left: 10px;
   padding-right: 10px;
   font-family: GleskHeader;
-  font-size: 1em; 
-  letter-spacing: 1px; 
+  font-size: 1em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 h2 {
@@ -35,12 +35,12 @@ h2 {
   padding-left: 5px;
   padding-right: 5px;
   font-family: GleskHeader;
-  font-size: 0.8em; 
-  letter-spacing: 1px; 
+  font-size: 0.8em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 img {
@@ -107,12 +107,12 @@ a {
   padding-left: 10px;
   padding-right: 10px;
   font-family: GleskHeader;
-  font-size: 1em; 
-  letter-spacing: 1px; 
+  font-size: 1em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 
@@ -140,13 +140,47 @@ a {
   padding-left: 10px;
   padding-right: 10px;
   font-family: GleskHeader;
-  font-size: 1em; 
-  letter-spacing: 1px; 
+  font-size: 1em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
+
+
+.block1news1end {
+  margin-top: 10px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  position: relative;
+  box-shadow: 0px 2px 5px 0px rgba(196,196,196,1);
+  border-radius: 10px 10px 10px 10px;
+  text-align: justify;
+}
+
+
+.block1news1end p {
+  margin-top: 5%;
+  padding: 4%;
+}
+
+.block1news1end h1 {
+  padding-top: 13%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: GleskHeader;
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: #006837;
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
+}
+
 
 
 .block1sro {
@@ -189,12 +223,12 @@ a {
   padding-right: 7px;
   padding-bottom: 15px;
   font-family: GleskHeader;
-  font-size: 10pt;  
-  letter-spacing: 1px; 
+  font-size: 10pt;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 .block1linked h2 {
@@ -202,12 +236,12 @@ a {
   padding-left: 7px;
   padding-right: 7px;
   font-family: GleskHeader;
-  font-size: 9pt; 
-  letter-spacing: 1px; 
+  font-size: 9pt;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: left; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: left;
 }
 
 .block1linked p {
@@ -223,7 +257,7 @@ a {
 
 .block1linked a {
   color: #006837;
-    opacity: 0.80; 
+    opacity: 0.80;
   text-decoration: none;
 }
 
@@ -238,12 +272,12 @@ a {
   padding-right: 7px;
   padding-bottom: 5%;
   font-family: GleskHeader;
-  font-size: 8pt; 
-  letter-spacing: 1px; 
+  font-size: 8pt;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 .block2 {
@@ -344,7 +378,7 @@ a {
 }
 
 .imgblock6 img {
-  border-radius: 6px 6px 6px 8px; 
+  border-radius: 6px 6px 6px 8px;
   box-shadow: 0px 2px 10px 0px rgba(196,196,196,1)
 }
 
@@ -380,12 +414,12 @@ a {
   padding-left: 10px;
   padding-right: 10px;
   font-family: GleskHeader;
-  font-size: 1em; 
-  letter-spacing: 1px; 
+  font-size: 1em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 
@@ -412,12 +446,12 @@ a {
   padding-left: 10px;
   padding-right: 10px;
   font-family: GleskHeader;
-  font-size: 1em; 
-  letter-spacing: 1px; 
+  font-size: 1em;
+  letter-spacing: 1px;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
-  text-align: center; 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
 }
 
 .block1ob {
@@ -458,9 +492,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -486,9 +520,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -514,9 +548,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -542,9 +576,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -570,9 +604,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -598,9 +632,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -626,9 +660,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -654,9 +688,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -682,9 +716,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -710,9 +744,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -738,9 +772,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -766,9 +800,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -794,9 +828,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -822,9 +856,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -850,9 +884,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -878,9 +912,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -906,9 +940,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -934,9 +968,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -962,9 +996,9 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   text-shadow: 1px 1px #4D4644;
-  font-size: 1em; 
-  letter-spacing: 1px; 
-  color: white; 
+  font-size: 1em;
+  letter-spacing: 1px;
+  color: white;
   text-align: center;
 }
 
@@ -993,10 +1027,10 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-   filter: alpha(Opacity=80); 
-  font-size: 1.2em; 
-  letter-spacing: 1px; 
+   opacity: 0.80;
+   filter: alpha(Opacity=80);
+  font-size: 1.2em;
+  letter-spacing: 1px;
   text-align: center;
 }
 
@@ -1022,10 +1056,10 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-   filter: alpha(Opacity=80); 
-  font-size: 1.2em; 
-  letter-spacing: 1px; 
+   opacity: 0.80;
+   filter: alpha(Opacity=80);
+  font-size: 1.2em;
+  letter-spacing: 1px;
   text-align: center;
 }
 
@@ -1051,10 +1085,10 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-   filter: alpha(Opacity=80); 
-  font-size: 1.2em; 
-  letter-spacing: 1px; 
+   opacity: 0.80;
+   filter: alpha(Opacity=80);
+  font-size: 1.2em;
+  letter-spacing: 1px;
   text-align: center;
 }
 
@@ -1080,10 +1114,10 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-   filter: alpha(Opacity=80); 
-  font-size: 1.2em; 
-  letter-spacing: 1px; 
+   opacity: 0.80;
+   filter: alpha(Opacity=80);
+  font-size: 1.2em;
+  letter-spacing: 1px;
   text-align: center;
 }
 
@@ -1109,10 +1143,10 @@ a {
   padding-right: 10px;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-   filter: alpha(Opacity=80); 
-  font-size: 1.2em; 
-  letter-spacing: 1px; 
+   opacity: 0.80;
+   filter: alpha(Opacity=80);
+  font-size: 1.2em;
+  letter-spacing: 1px;
   text-align: center;
 }
 
@@ -1137,8 +1171,8 @@ a {
   left: 50%;
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-  font-size: 1em; 
+   opacity: 0.80;
+  font-size: 1em;
   letter-spacing: 1px;
 }
 
@@ -1165,8 +1199,8 @@ a {
 .obertkacont3 a {
   text-decoration: none;
   color: #006837;
-    opacity: 0.80; 
-    filter: alpha(Opacity=80); 
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
 }
 
 .obertkacont {
@@ -1180,7 +1214,7 @@ a {
 
 .obertkacont a {
   color: #006837;
-    opacity: 0.80; 
+    opacity: 0.80;
   text-decoration: none;
 }
 
@@ -1223,8 +1257,8 @@ a {
 .block1cont100 h1 {
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-  font-size: 0.9em; 
+   opacity: 0.80;
+  font-size: 0.9em;
   letter-spacing: 1px;
   text-align: center;
 }
@@ -1232,8 +1266,8 @@ a {
 .block1cont100 h2 {
   margin-top: -20px;
   font-family: GleskHeader;
-  color: gray; 
-  font-size: 0.8em; 
+  color: gray;
+  font-size: 0.8em;
   letter-spacing: 1px;
   text-align: center;
 }
@@ -1259,8 +1293,8 @@ a {
 .block1cont101 h1 {
   font-family: GleskHeader;
   color: #006837;
-   opacity: 0.80; 
-  font-size: 0.9em; 
+   opacity: 0.80;
+  font-size: 0.9em;
   letter-spacing: 1px;
   text-align: center;
 }
@@ -1268,8 +1302,8 @@ a {
 .block1cont101 h2 {
   margin-top: -20px;
   font-family: GleskHeader;
-  color: gray; 
-  font-size: 0.8em; 
+  color: gray;
+  font-size: 0.8em;
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 20px;
@@ -1277,7 +1311,7 @@ a {
 
 .block1cont101 a {
   color: #006837;
-    opacity: 0.80; 
+    opacity: 0.80;
   text-decoration: none;
 }
 
@@ -1334,7 +1368,7 @@ a {
     padding: 10px 0; /* Some top and bottom padding */
     transition: all 0.3s ease; /* Add transition for hover effects */
     color: #006837; /* White text color */
-    opacity: 0.80; 
+    opacity: 0.80;
     filter: alpha(Opacity=80);
     font-size: 20px; /* Increased font size */
 }
@@ -1357,7 +1391,7 @@ a {
   margin-top: 10px;
   padding-top: 5%;
   padding-right: 10px;
- 
+
   color: #a6a4a3;
 }
 
@@ -1368,7 +1402,7 @@ a {
   margin-top: 10px;
   padding-top: 20px;
   padding-right: 10px;
- 
+
   color: #a6a4a3;
 }
 
@@ -1379,7 +1413,7 @@ a {
   margin-top: 10px;
   padding-top: 20px;
   padding-right: 6%;
- 
+
   color: #a6a4a3;
 }
 
@@ -1389,7 +1423,7 @@ a {
   width: 70%;
   margin-top: 20px;
   margin-bottom: 20px !important;
-  margin-left: 0px; 
+  margin-left: 0px;
  }
 
 .breadcrumbs-four li{
@@ -1407,7 +1441,7 @@ a {
 
  .serviceblock {
   background-color: #006837;
-  opacity: 0.90; 
+  opacity: 0.90;
   filter: alpha(Opacity=90);
   position: relative;
   text-align: center;
@@ -1438,7 +1472,7 @@ a {
 
 .serviceblockend {
   background-color: #006837;
-  opacity: 0.90; 
+  opacity: 0.90;
   filter: alpha(Opacity=90);
   position: relative;
   text-align: center;
@@ -1473,7 +1507,7 @@ a {
 .serviceblock1 {
 
   position: relative;
-  margin: 10px; 
+  margin: 10px;
   padding: 10px;
 
 }
@@ -1508,9 +1542,9 @@ a {
   font-weight: 400;
   font-size: 9pt;
   color: #006837;
-    opacity: 0.80; 
+    opacity: 0.80;
     filter: alpha(Opacity=80);
-  text-align: center; 
+  text-align: center;
 }
 
 
@@ -1519,13 +1553,13 @@ a {
 .bordered {
   width: 100%;
     border: solid #e8e8e8 0px;
-    margin-top: 50px;     
+    margin-top: 50px;
 }
 
 .bordered tr:hover {
   color: #006837;
-  font-weight: 600; 
-  opacity: 0.90; 
+  font-weight: 600;
+  opacity: 0.90;
   filter: alpha(Opacity=90);
 
     -o-transition: all 0.1s ease-in-out;
@@ -1536,47 +1570,47 @@ a {
 box-shadow:0px 0px 8px 3px rgba(217,217,217,0.8);
 -webkit-box-shadow:0px 0px 8px 3px rgba(217,217,217,0.8);
 -moz-box-shadow:0px 0px 8px 3px rgba(217,217,217,0.8);
- 
+
  }
 
 .bordered td, .bordered th {
   border-left: 1px solid #e8e8e8;
     border-top: 1px solid #e8e8e8;
     padding: 7px;
-    text-align: left;  
-    font-size: 12px !important;  
+    text-align: left;
+    font-size: 12px !important;
 }
- 
+
 .bordered th {
-  background: #006837; 
-  opacity: 0.80; 
+  background: #006837;
+  opacity: 0.80;
   filter: alpha(Opacity=80);
     color: #fff
 }
 
 th.thseriy {
   background: #c7c7c7 !important;
-  opacity: 0.90; 
+  opacity: 0.90;
   filter: alpha(Opacity=90);
     color: #fff
 }
- 
+
 .bordered td:first-child, .bordered th:first-child {
     border-left: none;
 }
- 
+
 .bordered th:first-child {
 }
- 
+
 .bordered th:last-child {
 }
- 
+
 .bordered th:only-child{
 }
- 
+
 .bordered tr:last-child td:first-child {
 }
- 
+
 .bordered tr:last-child td:last-child {
 }
 
@@ -1593,19 +1627,19 @@ th.thseriy {
 .block1linked ul.mark li {
   padding-bottom: 2%;
   position: relative;
-  font-size: 14px; 
+  font-size: 14px;
   font-family: Open Sans, Noto Sans, Arial;
 
 }
 
 .block1linked ul.mark li:after {
 
-  content: '\2714'; 
-  position: absolute; 
-  top: -3px; 
-  left: -25px; 
+  content: '\2714';
+  position: absolute;
+  top: -3px;
+  left: -25px;
   color: #278247;
-    opacity: 0.80; 
+    opacity: 0.80;
     filter: alpha(Opacity=80);
 }
 
@@ -1626,7 +1660,7 @@ th.thseriy {
 .block1 ul.mark li {
   padding-bottom: 2%;
   position: relative;
-  font-size: 14px; 
+  font-size: 14px;
   font-family: Open Sans, Noto Sans, Arial;
   text-align: left;
 
@@ -1634,12 +1668,12 @@ th.thseriy {
 
 .block1 ul.mark li:after {
 
-  content: '\2714'; 
-  position: absolute; 
-  top: -3px; 
-  left: -25px; 
+  content: '\2714';
+  position: absolute;
+  top: -3px;
+  left: -25px;
   color: #278247 !important;
-    opacity: 0.80; 
+    opacity: 0.80;
     filter: alpha(Opacity=80);
 }
 
@@ -1693,15 +1727,15 @@ th.thseriy {
  width: 100%;
   margin-top: 10px;
  margin-bottom: 40px !important;
- margin-left: -35px; 
+ margin-left: -35px;
  }
- 
+
 #breadcrumbs-four li{
  list-style-type: none;
  float: left;
  margin: 0 .2em 0 1em;
  }
- 
+
 #breadcrumbs-four a{
  background: #006837;
  padding: .1em 0.7em;
@@ -1711,8 +1745,8 @@ th.thseriy {
  position: relative;
  font-size: 10px !important;
  }
- 
- 
+
+
 #breadcrumbs-four a::before,
  #breadcrumbs-four a::after{
  content:'';
@@ -1724,32 +1758,32 @@ th.thseriy {
  transform: skew(-10deg);
  color: #006837;
  }
- 
+
 #breadcrumbs-four a::before{
- 
+
 left: -.5em;
  border-radius: 5px 0 0 5px;
  }
- 
+
 #breadcrumbs-four a:hover::before{
  background: #00693e;
  }
- 
+
 #breadcrumbs-four a::after{
  right: -.5em;
  border-radius: 0 5px 5px 0;
  }
- 
+
 #breadcrumbs-four a:hover::after{
  background: #00693e;
  }
- 
+
 #breadcrumbs-four .current,
  #breadcrumbs-four .current:hover{
  background: #bbb;
  color: white;
  }
- 
+
 
 #breadcrumbs-four .current::after,
  #breadcrumbs-four .current::before{
@@ -1774,18 +1808,18 @@ left: -.5em;
 .navi_bg {
   position: fixed;
   margin-top: 1%;
-  top:0; 
-  width: 100%; 
-  background: white; 
-  opacity: 0.90; 
-  filter: alpha(Opacity=90);  
+  top:0;
+  width: 100%;
+  background: white;
+  opacity: 0.90;
+  filter: alpha(Opacity=90);
   box-shadow: 0 10px 30px 30px rgba(255, 255, 255, 1);}
 
 
 .navi_block {
-  position:fixed;  
-  background: white; 
-  opacity: 0.80; 
+  position:fixed;
+  background: white;
+  opacity: 0.80;
   box-shadow: 0 10px 30px rgba(255, 255, 255, 1);
 }
 
