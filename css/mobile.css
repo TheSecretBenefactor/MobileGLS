@@ -186,6 +186,20 @@ a {
   text-align: center;
 }
 
+.block1news1end h3 {
+  padding-top: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: GleskHeader;
+  font-size: 0.7em;
+  letter-spacing: 1px;
+  color: #006837;
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+  text-align: center;
+}
+
+
 .block1news1end a {
   text-decoration: none;
   color: #006837;
@@ -1866,6 +1880,135 @@ left: -.5em;
   max-width: 50%;
 }
 
+/* ----------------------------------НАЧАЛО БЛОКА КАРТОЧЕК ЭКСПЕРТНОГО МНЕНИЯ-------------------------------------*/
+
+.cardblocktop {
+  margin-top: 11%;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  position: block;
+  box-shadow: 0px 2px 5px 0px rgba(196,196,196,1);
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+.obzrblock {
+  background-color: white;
+  position: relative;
+  float: left;
+  width: 100%;
+  box-shadow: 0px 1px 10px 0px rgba(196,196,196,1);
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 10px;
+}
+
+.obzrblockMost {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  border-radius: 10px 0px 0px 10px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  float: left;
+  width: 40%;
+  background-image: url(../mobile/volodarslyPrev.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.obzrblockZhilkom {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  border-radius: 10px 0px 0px 10px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  float: left;
+  width: 40%;
+  background-image: url(../mobile/zhokom.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.obzrblockKemerovo {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  border-radius: 10px 0px 0px 10px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  float: left;
+  width: 40%;
+  background-image: url(../mobile/kemerovo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.obzrblockNedostrShkoola {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  border-radius: 10px 0px 0px 10px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  float: left;
+  width: 40%;
+  background-image: url(../mobile/NedostrShkoola.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+
+.obzrblockLestpolet {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  border-radius: 10px 0px 0px 10px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  float: left;
+  width: 40%;
+  background-image: url(../mobile/lestprolet.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.obzrblockend {
+  background-color: white;
+  position: relative;
+  float: left;
+  width: 100%;
+  box-shadow: 0px 1px 10px 0px rgba(196,196,196,1);
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.obzrblock2 {
+  width: 60%;
+  float: left;
+  text-align: center;
+  position: inherit;
+}
+
+.obzrblock2 h1 {
+  margin-top: 9%;
+}
+
+/*.obzrblock2 p {
+  font-size: 0.5em;
+  padding: 3%;
+  color: #006837;
+    opacity: 0.80;
+}*/
+
+/* ----------------------------------КОНЕЦ БЛОКА КАРТОЧЕК ЭКСПЕРТНОГО МНЕНИЯ-------------------------------------*/
 
 
 
