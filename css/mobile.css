@@ -1654,6 +1654,33 @@ th.thseriy {
     filter: alpha(Opacity=80);
 }
 
+.block1news1 ul.mark {
+  list-style: none;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+
+
+.block1news1 ul.mark li {
+  padding-bottom: 2%;
+  position: relative;
+  font-size: 14px;
+  font-family: Open Sans, Noto Sans, Arial;
+
+}
+
+.block1news1 ul.mark li:after {
+
+  content: '\2714';
+  position: absolute;
+  top: -3px;
+  left: -25px;
+  color: #278247;
+    opacity: 0.80;
+    filter: alpha(Opacity=80);
+}
+
+
 .block1linked ul.mark2 {
   list-style: none;
   padding-bottom: 20px;
