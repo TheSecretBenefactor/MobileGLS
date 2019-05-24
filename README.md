@@ -2,4 +2,4 @@
 
 Pre-release
 
-v1.0.2-beta.7
+v1.0.2-beta.8
